@@ -3,5 +3,3 @@
 Hi,I'm Su.
 
 I'm here for editing my files first time.
-
-# Topic ITP
